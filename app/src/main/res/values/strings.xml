@@ -8,4 +8,11 @@
     <string name="nombre">Nombre:</string>
     <string name="descripcion">Descripcion:</string>
     <string name="imagen">Imagen:</string>
+    <string name="hereoTest">Iron Man</string>
+    <string name="descTest">Hombre de Acero</string>
+
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_hereo_detail">HereoDetailActivity</string>
 </resources>
